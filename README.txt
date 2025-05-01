@@ -4,7 +4,7 @@ This is customer facing so please make it look professional. Thanks.
 
 This file can be updated and will be copied to the console desktop at startup.
 
-NOTE: this file is public so NEVER include passwords.
+NOTE: this file is public so NEVER include passwords. Now you know.
 
 * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - * - *
 *                       HOL-26XX Title of Your Lab                              *
